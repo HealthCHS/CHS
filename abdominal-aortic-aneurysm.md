@@ -12,7 +12,7 @@
 
 它可能会随着时间的推移而变大，并可能破裂，导致危及生命的出血。
 
-NHS 定期为所有 65 岁及以上的男性提供AAA筛查。
+NHS 定期为所有 65 岁及以上的男性提供 AAA 筛查。
 
 70 岁或以上的女性如有潜在风险因素，例如高血压，也可能被建议参加 AAA 的筛查。
 
@@ -35,7 +35,7 @@ AAA 通常不会引起任何明显的症状，通常只有在筛查或因其他�
 - [呼吸急促](shortness-of-breath.md)
 - [晕倒](fainting.md)
 
-如果你或其他人出现 AAA 破裂的症状，立即拨打999叫救护车。
+如果你或其他人出现 AAA 破裂的症状，立即拨打 999 叫救护车。
 
 ### 何时寻求医疗帮助
 
@@ -43,7 +43,7 @@ AAA 通常不会引起任何明显的症状，通常只有在筛查或因其他�
 
 腹部的[超声扫描（B超）](ultrasound-scan)用于检查您是否患有 AAA。
 
-如果你或其他人出现 AAA 破裂的症状，立即拨打999叫救护车。
+如果你或其他人出现 AAA 破裂的症状，立即拨打 999 叫救护车。
 
 ### 谁有腹主动脉瘤（AAA）的风险？
 
@@ -60,7 +60,7 @@ AAA 通常不会引起任何明显的症状，通常只有在筛查或因其他�
 
 如果您担心自己可能有 AAA 的风险，请咨询医生。他们可能会建议进行一次扫描，并改变健康的生活方式，以降低患 AAA 的风险。
 
-### 治疗腹主动脉瘤(AAA)
+### 治疗腹主动脉瘤（AAA）
 
 AAA 的建议治疗方法取决于它的大小。
 
@@ -79,7 +79,7 @@ AAA 的建议治疗方法取决于它的大小。
 
 这些措施包括：
 
-- **戒烟g** – 请参阅 [戒烟指南](https://www.nhs.uk/live-well/quit-smoking/10-self-help-tips-to-stop-smoking/), 并了解 Smokefree，NHS的戒烟服务。
+- **戒烟** – 请参阅 [戒烟指南](https://www.nhs.uk/live-well/quit-smoking/10-self-help-tips-to-stop-smoking/)，并了解 Smokefree，NHS的戒烟服务。
 - **健康饮食** – 使用 [均衡饮食](https://www.nhs.uk/live-well/eat-well/) 并 [减少油腻食物](https://www.nhs.uk/live-well/eat-well/eat-less-saturated-fat/)
 - **定期锻炼** – 目标是 [每周至少锻炼150分钟](https://www.nhs.uk/live-well/exercise/)；请参阅 [如何开始一些常见的活动](https://www.nhs.uk/live-well/exercise/walking-for-health/)
 - **保持健康的体重t** – 启用 [健康体重计算器](https://www.nhs.uk/live-well/healthy-weight/bmi-calculator/) 查看是否需要减肥，并了解 [如何安全减肥](https://www.nhs.uk/live-well/healthy-weight/start-the-nhs-weight-loss-plan/)
@@ -93,11 +93,11 @@ AAA 的建议治疗方法取决于它的大小。
 
 该测试包括快速和无痛的超声波扫描，以了解您的主动脉有多大。
 
-如果您是 65 岁以上的男性，而您还没有接受检查，您可以直接联系 [您当地的AAA检查服务](https://www.nhs.uk/Service-Search/Abdominal-aortic-aneurysm-screening/LocationSearch/1910)，要求进行检查。
+如果您是 65 岁以上的男性，而您还没有接受检查，您可以直接联系 [您当地的 AAA 检查服务](https://www.nhs.uk/Service-Search/Abdominal-aortic-aneurysm-screening/LocationSearch/1910)，要求进行检查。
 
 70 岁的女性或其他有潜在风险因素的女性，如高血压或慢性阻塞性肺部疾病，也可以从超声波扫描中获益。由于目前还没有邀请女性进行常规扫描，您需要向全科医生申请转诊。
 
-阅读更多关于[AAA的筛查](https://www.nhs.uk/conditions/abdominal-aortic-aneurysm-screening/).
+阅读更多关于[ AAA 的筛查](https://www.nhs.uk/conditions/abdominal-aortic-aneurysm-screening/).
 
 ***There is a video in NHS website, please visit <https://www.nhs.uk/conditions/abdominal-aortic-aneurysm/>***
 
