@@ -88,8 +88,7 @@ AAA的手术主要有两种：
 - 血凝块
 - 大量出血
 - 心脏病发作或中风
-
--对于男性，[勃起功能障碍](https://www.nhs.uk/conditions/erection-problems-erectile-dysfunction/) 或者 [射精问题](https://www.nhs.uk/conditions/ejaculation-problems/)
+- 对于男性，[勃起功能障碍](https://www.nhs.uk/conditions/erection-problems-erectile-dysfunction/) 或者 [射精问题](https://www.nhs.uk/conditions/ejaculation-problems/)
 
 移植问题的风险低于血管内手术。移植物通常可以在你的余生中很好地工作，你通常不需要定期扫描来检查它。
 
