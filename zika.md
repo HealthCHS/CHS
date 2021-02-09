@@ -176,6 +176,6 @@
 [best use of medicines in pregnancy (bumps): Zika virus](http://www.medicinesinpregnancy.org/Medicine--pregnancy/Zika-virus/)
 
 ***页面上一次复查: 10 December 2018  
-下一次复查: 10 December 2021
+下一次复查: 10 December 2021  
 翻译日期: 09 February 2021  
 翻译人员: KevinZonda***
