@@ -2,7 +2,7 @@
 
 # **常见问题**
 
-## *腹主动脉瘤检查（Abdominal aortic aneurysm screening）**
+## *腹主动脉瘤检查（Abdominal aortic aneurysm screening）*
 
 - [总览](abdominal-aortic-aneurysm-screening.md)
 - **常见问题**

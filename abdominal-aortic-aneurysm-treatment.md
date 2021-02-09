@@ -2,7 +2,7 @@
 
 # **治疗**
 
-## *腹主动脉瘤（Abdominal aortic aneurysm, AAA）**
+## *腹主动脉瘤（Abdominal aortic aneurysm, AAA）*
 
 - [总览](abdominal-aortic-aneurysm.md)
 - **治疗**
