@@ -159,5 +159,7 @@ AAA 的检查包括对您的腹部进行快速、无痛的 [超声扫描](https:
 
 ***页面上一次复查: 12 January 2021  
 下一次复查: 12 January 2024  
+原文链接: <https://www.nhs.uk/conditions/abdominal-aortic-aneurysm-screening/>  
+原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)  
 翻译日期: 08 February 2021  
 翻译人员: KevinZonda***

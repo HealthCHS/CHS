@@ -97,5 +97,7 @@ ABI 尚不知晓有任何旅行保险在其标准措辞中明确排除 AAA。
 
 ***页面上一次复查: 12 January 2021  
 下一次复查: 12 January 2024  
+原文链接: <https://www.nhs.uk/conditions/abdominal-aortic-aneurysm-screening/faqs/>  
+原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)  
 翻译日期: 09 February 2021  
 翻译人员: KevinZonda***

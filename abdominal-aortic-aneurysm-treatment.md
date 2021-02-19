@@ -114,5 +114,7 @@ AAA的手术主要有两种：
 
 ***页面上一次复查: 21 May 2020  
 下一次复查: 21 May 2023  
+原文链接: <https://www.nhs.uk/conditions/abdominal-aortic-aneurysm/treatment/>  
+原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)  
 翻译日期: 08 February 2021  
 翻译人员: KevinZonda***
