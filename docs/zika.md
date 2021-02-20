@@ -163,9 +163,9 @@ title: 寨卡病毒
 
 [best use of medicines in pregnancy (bumps): Zika virus](http://www.medicinesinpregnancy.org/Medicine--pregnancy/Zika-virus/)
 
-**_页面上一次复查: 10 December 2018
-下一次复查: 10 December 2021
-原文链接: <https://www.nhs.uk/conditions/zika/>
-原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
-翻译日期: 09 February 2021
+**_页面上一次复查: 10 December 2018  
+下一次复查: 10 December 2021  
+原文链接: <https://www.nhs.uk/conditions/zika/>  
+原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)  
+翻译日期: 09 February 2021  
 翻译人员: KevinZonda_**

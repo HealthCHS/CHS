@@ -100,9 +100,9 @@ X 射线将持续几分之一秒的时间。当它被执行时，你不会有任
 
 在建议进行 X 射线检查之前，会对其好处和风险进行权衡。如果你有任何顾虑，请事先与你的医生或放射技师讨论潜在的风险。
 
-**_页面上一次复查: 13 July 2018
-下一次复查: 13 July 2021
-原文链接: <https://www.nhs.uk/conditions/x-ray/>
-原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
-翻译日期: 19 February 2021
+**_页面上一次复查: 13 July 2018  
+下一次复查: 13 July 2021  
+原文链接: <https://www.nhs.uk/conditions/x-ray/>  
+原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)  
+翻译日期: 19 February 2021  
 翻译人员: KevinZonda_**

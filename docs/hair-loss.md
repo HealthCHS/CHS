@@ -131,9 +131,9 @@ NHS 提供一些假发，除非你有资格获得经济帮助，否则你可能�
 [Cancer Research UK: hair loss](https://www.cancerresearchuk.org/about-cancer/coping/physically/changes-appearance/hair-loss)
 [Macmillan: hair loss](https://www.macmillan.org.uk/cancer-information-and-support/impacts-of-cancer/hair-loss)
 
-**_页面上一次复查: 4 February 2021
-下一次复查: 4 February 2024
-原文链接: <https://www.nhs.uk/conditions/hair-loss/>
-原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
-翻译日期: 09 February 2021
+**_页面上一次复查: 4 February 2021  
+下一次复查: 4 February 2024  
+原文链接: <https://www.nhs.uk/conditions/hair-loss/>  
+原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)  
+翻译日期: 09 February 2021  
 翻译人员: KevinZonda_**

@@ -78,9 +78,9 @@ title: 减肥手术 - 总览
 
 阅读更多关于 [减肥手术的风险](weight-loss-surgery-risks.md) 的内容。
 
-**_页面上一次复查: 14 April 2020
-下一次复查: 14 April 2024
-原文链接: <https://www.nhs.uk/conditions/weight-loss-surgery/>
-原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
-翻译日期: 19 February 2021
+**_页面上一次复查: 14 April 2020  
+下一次复查: 14 April 2024  
+原文链接: <https://www.nhs.uk/conditions/weight-loss-surgery/>  
+原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)  
+翻译日期: 19 February 2021  
 翻译人员: KevinZonda_**

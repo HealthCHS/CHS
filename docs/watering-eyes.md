@@ -58,9 +58,9 @@ title: 眼睛流泪
 - 如果有任何东西在你眼中，例如一粒沙，可以将其移除
 - 如果你的眼睑有问题或泪管堵塞，可能需要做一场小手术
 
-**_页面上一次复查: 6 April 2018
-下一次复查: 6 April 2021
-原文链接: <https://www.nhs.uk/conditions/watering-eyes/>
-原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
-翻译日期: 19 February 2021
+**_页面上一次复查: 6 April 2018  
+下一次复查: 6 April 2021  
+原文链接: <https://www.nhs.uk/conditions/watering-eyes/>  
+原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)  
+翻译日期: 19 February 2021  
 翻译人员: KevinZonda_**
