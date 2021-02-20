@@ -1,8 +1,12 @@
+---
+title: 腹主动脉瘤 - 总览
+---
+
 <!-- AAA/Abdominal aortic aneurysm -->
 
 # **总览**
 
-## *腹主动脉瘤（Abdominal aortic aneurysm, AAA）*
+> ## 腹主动脉瘤（Abdominal aortic aneurysm, AAA）
 
 - **总览**
 - [治疗](abdominal-aortic-aneurysm-treatment.md)
@@ -23,7 +27,7 @@ NHS 定期为所有 65 岁及以上的男性提供 AAA 筛查。
 
 AAA 通常不会引起任何明显的症状，通常只有在筛查或因其他原因进行的检查中才会被发现。
 
-有些AAA患者会有以下症状：
+有些 AAA 患者会有以下症状：
 
 - 腹部有脉动感（就像心跳一样）
 - 持久不退的[胃痛](stomach-ache.md)
@@ -46,7 +50,7 @@ AAA 通常不会引起任何明显的症状，通常只有在筛查或因其他�
 
 如果你有症状，特别如果你是 AAA 的高危人群，请尽快预约医生。
 
-腹部的[超声扫描（B超）](ultrasound-scan.md)用于检查你是否患有 AAA。
+腹部的[超声扫描（B 超）](ultrasound-scan.md)用于检查你是否患有 AAA。
 
 如果你或其他人出现 AAA 破裂的症状，立即拨打 999 叫救护车。
 
@@ -73,12 +77,12 @@ AAA 通常不会引起任何明显的症状，通常只有在筛查或因其他�
 
 AAA 的建议治疗方法取决于它的大小。
 
-如果AAA爆裂的风险较低，不一定需要立即治疗。
+如果 AAA 爆裂的风险较低，不一定需要立即治疗。
 
 治疗包含：
 
 - **小型 AAA (直径 3cm 至 4.4cm)** – 建议每年进行超声扫描，以检查 AAA 是否变大；我们建议你改变健康的生活方式，以帮助阻止 AAA 的增长。
-- **中型 AAA (直径 4.5cm 至 5.4cm)** – 建议每3个月进行一次超声扫描，以检查它是否变大；还建议你改变健康的生活方式。
+- **中型 AAA (直径 4.5cm 至 5.4cm)** – 建议每 3 个月进行一次超声扫描，以检查它是否变大；还建议你改变健康的生活方式。
 - **大型 AAA (直径 5.5cm 或更高)** – 通常建议进行手术以阻止其变大或爆裂。
 - 如果你不确定你的 AAA 大小，请询问你的医生。
 
@@ -90,10 +94,10 @@ AAA 的建议治疗方法取决于它的大小。
 
 这些措施包括：
 
-- **戒烟** – 请参阅 [戒烟指南](https://www.nhs.uk/live-well/quit-smoking/10-self-help-tips-to-stop-smoking/)，并了解 Smokefree，NHS的戒烟服务。
+- **戒烟** – 请参阅 [戒烟指南](https://www.nhs.uk/live-well/quit-smoking/10-self-help-tips-to-stop-smoking/)，并了解 Smokefree，NHS 的戒烟服务。
 - **健康饮食** – 使用 [均衡饮食](https://www.nhs.uk/live-well/eat-well/) 并 [减少油腻食物](https://www.nhs.uk/live-well/eat-well/eat-less-saturated-fat/)
-- **定期锻炼** – 目标是 [每周至少锻炼150分钟](https://www.nhs.uk/live-well/exercise/)；请参阅 [如何开始一些常见的活动](https://www.nhs.uk/live-well/exercise/walking-for-health/)
-- **保持健康的体重t** – 启用 [健康体重计算器](https://www.nhs.uk/live-well/healthy-weight/bmi-calculator/) 查看是否需要减肥，并了解 [如何安全减肥](https://www.nhs.uk/live-well/healthy-weight/start-the-nhs-weight-loss-plan/)
+- **定期锻炼** – 目标是 [每周至少锻炼 150 分钟](https://www.nhs.uk/live-well/exercise/)；请参阅 [如何开始一些常见的活动](https://www.nhs.uk/live-well/exercise/walking-for-health/)
+- **保持健康的体重 t** – 启用 [健康体重计算器](https://www.nhs.uk/live-well/healthy-weight/bmi-calculator/) 查看是否需要减肥，并了解 [如何安全减肥](https://www.nhs.uk/live-well/healthy-weight/start-the-nhs-weight-loss-plan/)
 - **减少饮酒** – 参阅 [减少饮酒的技巧](https://www.nhs.uk/live-well/alcohol-support/tips-on-cutting-down-alcohol/) 以及通常的 [关于酒精的建议](https://www.nhs.uk/live-well/alcohol-support/)
 
 如果你有增加 AAA 风险的疾病，如高血压，你的全科医生也可能会建议你服用药片来治疗。
@@ -112,11 +116,11 @@ AAA 的建议治疗方法取决于它的大小。
 
 阅读更多关于 [AAA 的筛查](https://www.nhs.uk/conditions/abdominal-aortic-aneurysm-screening/).
 
-***There is a video in NHS website, please visit <https://www.nhs.uk/conditions/abdominal-aortic-aneurysm/>***
+**_There is a video in NHS website, please visit <https://www.nhs.uk/conditions/abdominal-aortic-aneurysm/>_**
 
-***页面上一次复查: 21 May 2020  
+**_页面上一次复查: 21 May 2020  
 下一次复查: 21 May 2023  
 原文链接: <https://www.nhs.uk/conditions/abdominal-aortic-aneurysm/>  
 原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)  
 翻译日期: 08 February 2021  
-翻译人员: KevinZonda***
+翻译人员: KevinZonda_**

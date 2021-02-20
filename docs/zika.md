@@ -1,3 +1,7 @@
+---
+title: 寨卡病毒
+---
+
 <!-- Zika virus-->
 
 # 寨卡病毒
@@ -12,7 +16,7 @@
 
 旅行建议是为你量身定制的，并基于你所要前往的国家的 [风险程度](https://www.gov.uk/guidance/zika-virus-country-specific-risk)（风险或极低风险）。
 
-对于考虑前往受影响国家或地区的孕妇的具体建议可在 [NaTHNaC国家信息页](https://travelhealthpro.org.uk/countries)的 “其他风险” （other risks） 部分找到。
+对于考虑前往受影响国家或地区的孕妇的具体建议可在 [NaTHNaC 国家信息页](https://travelhealthpro.org.uk/countries)的 “其他风险” （other risks） 部分找到。
 
 如果你前往受影响地区，你可以通过使用驱虫剂和穿戴遮盖手脚的宽松衣服来降低感染病毒的风险。
 
@@ -41,6 +45,7 @@
 寨卡病毒病的大多数病例是由感染的蚊子叮咬人类传播的。
 
 <!-- FIXME: 时间定义-->
+
 与传播疟疾的蚊子不同，受感染的蚊子（伊蚊）在白天最活跃，尤其是在上午（译者注：原文为 mid-morning，大约是上午十点），然后是下午晚些时候到黄昏。
 
 有少量报道称，寨卡病毒通过性行为传播，虽然风险被认为很低。
@@ -63,16 +68,17 @@
 - 穿能够遮住胳膊和腿的宽松衣物
 - 在有疟疾风险的地区，睡在蚊帐里
 
-
-
 <!-- FIXME: 潜在的区域性内容 -->
-## 给孕妇的建议 
+
+
+
+## 给孕妇的建议
 
 科学家认为，有足够的证据表明寨卡病毒感染是导致出生缺陷的原因之一，包括小头症。
 
 小头症意味着宝宝的头会异常的小，并且可能与大脑发育异常有关。这也被称为先天性寨卡病毒综合征。
 
-对于考虑前往受影响国家或地区的孕妇的具体建议可在 [NaTHNaC国家信息网页](https://travelhealthpro.org.uk/countries) 的 “其他风险” （other risks）部分找到。
+对于考虑前往受影响国家或地区的孕妇的具体建议可在 [NaTHNaC 国家信息网页](https://travelhealthpro.org.uk/countries) 的 “其他风险” （other risks）部分找到。
 
 与全科医生、执业护士或旅行诊所讨论你的旅行计划。如果旅行是不可避免的，你应格外注意避免被蚊子叮咬。
 
@@ -102,7 +108,7 @@
 
 女性应避免在前往有寨卡病毒传播风险的国家或地区旅行时怀孕。
 
-回到英国后，如果只有女性伴侣旅行，你应在2个月内避免怀孕；如果是情侣，夫妻或只有男性伴侣旅行，则应在3个月内避免怀孕。
+回到英国后，如果只有女性伴侣旅行，你应在 2 个月内避免怀孕；如果是情侣，夫妻或只有男性伴侣旅行，则应在 3 个月内避免怀孕。
 
 [了解更多关于预防性传播感染的信息](https://www.gov.uk/guidance/zika-virus-preventing-infection-by-sexual-transmission)
 
@@ -138,7 +144,7 @@
 <!-- FIXME: 潜在的区域性内容 -->
 ## 寨卡病毒与献血
 
-作为预防措施，[NHS血液和移植服务](https://www.blood.co.uk/news-and-campaigns/news-and-statements/statement-nhs-blood-and-transplant-response-to-the-zika-virus/) 建议曾到有寨卡病毒传播风险的地区旅行的人要等待 28 天后再献血。
+作为预防措施，[NHS 血液和移植服务](https://www.blood.co.uk/news-and-campaigns/news-and-statements/statement-nhs-blood-and-transplant-response-to-the-zika-virus/) 建议曾到有寨卡病毒传播风险的地区旅行的人要等待 28 天后再献血。
 
 如果你想知道最近是否有任何国际旅行暂时禁止你献血，你可以拨打他们的全国联络中心电话 0300 123 23 23。
 
@@ -153,6 +159,7 @@
 
 
 <!-- FIXME: 潜在的区域性内容 -->
+
 ## 关于你的信息
 
 如果你感染了寨卡病毒，你的临床团队将把你的信息传递给国家先天性异常和罕见病登记处（National Congenital Anomaly and Rare Diseases Registration Service, NCARDRS）。
@@ -175,9 +182,9 @@
 
 [best use of medicines in pregnancy (bumps): Zika virus](http://www.medicinesinpregnancy.org/Medicine--pregnancy/Zika-virus/)
 
-***页面上一次复查: 10 December 2018  
+**_页面上一次复查: 10 December 2018  
 下一次复查: 10 December 2021  
 原文链接: <https://www.nhs.uk/conditions/zika/>  
 原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)  
 翻译日期: 09 February 2021  
-翻译人员: KevinZonda***
+翻译人员: KevinZonda_**

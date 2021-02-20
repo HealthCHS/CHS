@@ -1,17 +1,21 @@
+---
+title: 腹主动脉瘤 - 治疗
+---
+
 <!-- AAA/Abdominal aortic aneurysm -->
 
 # **治疗**
 
-## *腹主动脉瘤（Abdominal aortic aneurysm, AAA）*
+> ## 腹主动脉瘤（Abdominal aortic aneurysm, AAA）
 
 - [总览](abdominal-aortic-aneurysm.md)
 - **治疗**
 
 **腹主动脉瘤（AAA）的治疗主要取决于它有多大**
 
-AAA 分为3种大小：
+AAA 分为 3 种大小：
 
-- **小型 AAA** – 直径3cm 至 4.4cm
+- **小型 AAA** – 直径 3cm 至 4.4cm
 - **中型 AAA** – 直径 4.5cm 至 5.4cm
 - **大型 AAA** – 直径 5.5cm 或更高
 
@@ -50,7 +54,7 @@ AAA 分为3种大小：
 
 如果你有一个大型 AAA，通常建议进行手术，用一根人造管（移植）来加固它，因为它破裂的风险比手术并发症的风险更大。
 
-AAA的手术主要有两种：
+AAA 的手术主要有两种：
 
 - **血管内手术** – 移植物插入你腹股沟的血管，然后小心地进入主动脉
 - **开放手术** – 通过切开肿瘤将移植物置于主动脉中
@@ -78,8 +82,8 @@ AAA的手术主要有两种：
 - 腹股沟大量出血
 - 血凝块，心脏病发作或中风
 
-***Please visit NHS website to watch Video: abdominal aortic aneurysm - endovascular surgery***  
-***This video shows what happens when you have endovascular surgery for an abdominal aortic aneurysm.***
+**_Please visit NHS website to watch Video: abdominal aortic aneurysm - endovascular surgery_**
+**_This video shows what happens when you have endovascular surgery for an abdominal aortic aneurysm._**
 
 
 
@@ -101,8 +105,8 @@ AAA的手术主要有两种：
 
 移植问题的风险低于血管内手术。移植物通常可以在你的余生中很好地工作，你通常不需要定期扫描来检查它。
 
-***Please visit NHS website to watch Video: abdominal aortic aneurysm - open surgery***  
-***This animation explains what happens when you have open surgery for an abdominal aortic aneurysm.***
+**_Please visit NHS website to watch Video: abdominal aortic aneurysm - open surgery_**
+**_This animation explains what happens when you have open surgery for an abdominal aortic aneurysm._**
 
 
 
@@ -112,9 +116,9 @@ AAA的手术主要有两种：
 
 关于是否进行开放或血管内手术的决定由进行手术的外科医生做出。
 
-***页面上一次复查: 21 May 2020  
+**_页面上一次复查: 21 May 2020  
 下一次复查: 21 May 2023  
 原文链接: <https://www.nhs.uk/conditions/abdominal-aortic-aneurysm/treatment/>  
 原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)  
 翻译日期: 08 February 2021  
-翻译人员: KevinZonda***
+翻译人员: KevinZonda_**
