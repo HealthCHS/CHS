@@ -6,7 +6,10 @@ title: 腹主动脉瘤 - 治疗
 
 # **治疗**
 
-## _腹主动脉瘤（Abdominal aortic aneurysm, AAA）_
+> ## 腹主动脉瘤（Abdominal aortic aneurysm, AAA）
+
+- [总览](abdominal-aortic-aneurysm.md)
+- **治疗**
 
 **腹主动脉瘤（AAA）的治疗主要取决于它有多大**
 

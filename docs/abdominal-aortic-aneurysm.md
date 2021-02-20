@@ -6,7 +6,10 @@ title: 腹主动脉瘤 - 总览
 
 # **总览**
 
-## _腹主动脉瘤（Abdominal aortic aneurysm, AAA）_
+> ## 腹主动脉瘤（Abdominal aortic aneurysm, AAA）
+
+- **总览**
+- [治疗](abdominal-aortic-aneurysm-treatment.md)
 
 **腹主动脉瘤（Abdominal aortic aneurysm, AAA）是指主动脉隆起或肿胀，主动脉是从心脏到胸部和腹部的主要血管。**
 

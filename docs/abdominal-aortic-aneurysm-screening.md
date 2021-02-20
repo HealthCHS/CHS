@@ -6,7 +6,10 @@ title: 腹主动脉瘤检查 - 总览
 
 # **总览**
 
-## _腹主动脉瘤检查（Abdominal aortic aneurysm screening）_
+> ## 腹主动脉瘤检查（Abdominal aortic aneurysm screening）
+
+- **总览**
+- [常见问题](abdominal-aortic-aneurysm-screening-faqs.md)
 
 **腹主动脉瘤（Abdominal aortic aneurysm, AAA）检查是一种检查主动脉是否有隆起或肿胀的方法，主动脉是从心脏向下穿过肿瘤的主要血管。**
 

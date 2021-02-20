@@ -6,7 +6,10 @@ title: 腹主动脉瘤检查 - 常见问题
 
 # **常见问题**
 
-## _腹主动脉瘤检查（Abdominal aortic aneurysm screening）_
+> ## 腹主动脉瘤检查（Abdominal aortic aneurysm screening）
+
+- [总览](abdominal-aortic-aneurysm-screening.md)
+- **常见问题**
 
 <!-- FIXME: 潜在的区域性内容 -->
 
