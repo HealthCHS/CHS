@@ -1,7 +1,9 @@
 ---
 home: true
 ---
-
+- **关于**
+  - [关于本项目](about/about.md)
+  - [专有名词](about/proper-noun.md)
 - **腹主动脉瘤**
   - [总览](abdominal-aortic-aneurysm.md)
   - [治疗](abdominal-aortic-aneurysm-treatment.md)

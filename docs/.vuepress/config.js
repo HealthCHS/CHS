@@ -5,6 +5,14 @@ module.exports = {
   themeConfig: {
     sidebar: [
       {
+        title: '关于',
+        collapsable: false,
+        children: [
+          ['/about/about', '关于本项目'],
+          ['/about/proper-noun', '专有名词'],
+        ],
+      },
+      {
         title: '腹主动脉瘤',
         collapsable: false,
         children: [
