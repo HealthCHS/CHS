@@ -11,6 +11,8 @@ title: 腹主动脉瘤检查 - 常见问题
 - [总览](abdominal-aortic-aneurysm-screening.md)
 - **常见问题**
 
+
+
 <!-- FIXME: 潜在的区域性内容 -->
 
 ## 英格兰以外地区是否提供 AAA 检查？
@@ -22,6 +24,8 @@ title: 腹主动脉瘤检查 - 常见问题
 - 北爱尔兰: [NI Direct AAA screening](https://www.nidirect.gov.uk/articles/abdominal-aortic-aneurysm-screening)
 - 苏格兰: [NHS Inform AAA screening](http://www.healthscotland.scot/health-topics/screening/abdominal-aortic-aneurysm-screening)
 - 威尔士: [NHS Wales AAA Screening Programme](http://www.aaascreening.wales.nhs.uk/)
+
+
 
 ## 如果我是 65 岁以上的男性，但没有接受过检查，我该怎么办？
 
@@ -43,6 +47,8 @@ title: 腹主动脉瘤检查 - 常见问题
 
 [阅读更多关于如何降低获得 AAA 的风险的内容](https://www.nhs.uk/conditions/abdominal-aortic-aneurysm/#prevention)
 
+
+
 <!-- FIXME: 潜在的区域性内容 -->
 
 ## 如果我患有 AAA，我可以开车吗？
@@ -60,6 +66,8 @@ DVLA 认为：
 
 拥有 AAA 应该不会影响你的汽车保险费。
 
+
+
 ## 如果我患有 AAA，我可以乘坐飞机吗？
 
 如果你有 AAA，乘坐飞机是安全的。它们在高空爆裂的可能性与在地面上无较大差别。
@@ -67,6 +75,8 @@ DVLA 认为：
 <!-- FIXME: 潜在的区域性内容 -->
 
 英国保险公司协会（ABI）已被告知这一点，它尚不知晓有任何航空公司会拒绝患有 AAA 的人员乘坐飞机。
+
+
 
 <!-- FIXME: 潜在的区域性内容 -->
 
@@ -85,6 +95,8 @@ ABI 尚不知晓有任何旅行保险在其标准措辞中明确排除 AAA。
 你可能会被收取额外的保费，或被你的保险排除在外。
 
 在寻找保险时，经纪人可以帮助你。英国保险经纪人协会(British Insurance Brokers Association, BIBA)提供 [寻找经纪人服务](https://www.biba.org.uk/find-insurance) ，其可以提供帮助 – 拨打 0370 950 1790 与他们联系。
+
+
 
 ## 是否 AAA 检查会让我发现其他健康问题？
 

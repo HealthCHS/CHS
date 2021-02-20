@@ -25,6 +25,8 @@ AAA 分为 3 种大小：
 
 如果你不确定你的动脉瘤大小，请咨询你的医生。
 
+
+
 ## 中小型 AAA
 
 如果你有小型或中型 AAA，你可能不需要治疗。这是因为 AAA 爆裂的风险小于手术并发症的风险。
@@ -46,6 +48,8 @@ AAA 分为 3 种大小：
 
 参阅 [AAA 相关的常见问题](https://www.nhs.uk/conditions/abdominal-aortic-aneurysm-screening/faqs/) 以获得更多信息。
 
+
+
 ## 大型 AAA
 
 如果你有一个大型 AAA，通常建议进行手术，用一根人造管（移植）来加固它，因为它破裂的风险比手术并发症的风险更大。
@@ -58,6 +62,8 @@ AAA 的手术主要有两种：
 这两种技术同样擅长降低 AAA 破裂的风险，但每种技术都有自己的优缺点。与你的外科医生讨论哪一个最适合你。
 
 如果手术不适合你，你将定期进行扫描以监测你的动脉瘤，并获得有关健康生活方式改变的建议。你也可以开处方药来帮助阻止动脉瘤破裂。
+
+
 
 ## 血管内手术
 
@@ -79,6 +85,8 @@ AAA 的手术主要有两种：
 **_Please visit NHS website to watch Video: abdominal aortic aneurysm - endovascular surgery_**
 **_This video shows what happens when you have endovascular surgery for an abdominal aortic aneurysm._**
 
+
+
 ## 开放手术
 
 在开放手术期间，你的外科医生会在你的肿瘤中切开并用移植物替换主动脉的受影响部分。这是在全身麻醉下完成的。
@@ -99,6 +107,8 @@ AAA 的手术主要有两种：
 
 **_Please visit NHS website to watch Video: abdominal aortic aneurysm - open surgery_**
 **_This animation explains what happens when you have open surgery for an abdominal aortic aneurysm._**
+
+
 
 ## 治疗突发 AAA
 
