@@ -97,7 +97,7 @@ AAA 的建议治疗方法取决于它的大小。
 - **戒烟** – 请参阅 [戒烟指南](https://www.nhs.uk/live-well/quit-smoking/10-self-help-tips-to-stop-smoking/)，并了解 Smokefree，NHS 的戒烟服务。
 - **健康饮食** – 使用 [均衡饮食](https://www.nhs.uk/live-well/eat-well/) 并 [减少油腻食物](https://www.nhs.uk/live-well/eat-well/eat-less-saturated-fat/)
 - **定期锻炼** – 目标是 [每周至少锻炼 150 分钟](https://www.nhs.uk/live-well/exercise/)；请参阅 [如何开始一些常见的活动](https://www.nhs.uk/live-well/exercise/walking-for-health/)
-- **保持健康的体重 t** – 启用 [健康体重计算器](https://www.nhs.uk/live-well/healthy-weight/bmi-calculator/) 查看是否需要减肥，并了解 [如何安全减肥](https://www.nhs.uk/live-well/healthy-weight/start-the-nhs-weight-loss-plan/)
+- **保持健康的体重 ** – 启用 [健康体重计算器](https://www.nhs.uk/live-well/healthy-weight/bmi-calculator/) 查看是否需要减肥，并了解 [如何安全减肥](https://www.nhs.uk/live-well/healthy-weight/start-the-nhs-weight-loss-plan/)
 - **减少饮酒** – 参阅 [减少饮酒的技巧](https://www.nhs.uk/live-well/alcohol-support/tips-on-cutting-down-alcohol/) 以及通常的 [关于酒精的建议](https://www.nhs.uk/live-well/alcohol-support/)
 
 如果你有增加 AAA 风险的疾病，如高血压，你的全科医生也可能会建议你服用药片来治疗。
