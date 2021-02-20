@@ -1,6 +1,7 @@
 module.exports = {
   title: 'CHS',
   description: '翻译终了的 NHS 内容',
+  base: '/CHS/',
   themeConfig: {
     sidebar: [
       {
