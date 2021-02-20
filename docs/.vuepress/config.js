@@ -29,6 +29,7 @@ module.exports = {
         ],
       },
       '/hair-loss',
+      '/headaches',
       '/watering-eyes',
       {
         title: '减肥手术',

@@ -10,6 +10,7 @@ home: true
 - **腹主动脉瘤检查**
   - [总览](abdominal-aortic-aneurysm-screening.md)
   - [常见问题](abdominal-aortic-aneurysm-screening-faqs.md)
+- [**头痛**](headaches.md) 
 - [**脱发**](hair-loss.md)
 - [**眼睛流泪**](watering-eyes.md)
 - **减肥手术**
