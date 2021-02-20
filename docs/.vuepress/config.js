@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'CHS',
-  description: '翻译终了的 NHS 内容',
+  title: 'HealthCHS',
+  description: '非官方 NHS 资料中文分支',
   base: '/CHS/',
   themeConfig: {
     sidebar: [
