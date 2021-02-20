@@ -48,7 +48,7 @@ title: 头痛/头疼
 
 前往 [111.nhs.uk](https://111.nhs.uk/?utm_source=nhsuk&utm_campaign=conditions&utm_content=headaches) 或拨打 [111](tel:111)。
 
-:::warning 获得帮助的其他途径
+:::details 获得帮助的其他途径
 全科医生可能会对你进行治疗。
 
 请向您的全科医生咨询紧急预约。
