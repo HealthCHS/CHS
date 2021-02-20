@@ -1,3 +1,7 @@
+---
+title: 眼睛流泪
+---
+
 <!-- watering-eyes -->
 
 # 眼睛流泪
@@ -14,13 +18,11 @@
 
 - [过敏](allergies.md) 或感染（[结膜炎](conjunctivitis.md)）
 - 泪道堵塞（泪水流入的小管）
-- 你的 [眼睑从眼睛上下垂（外翻）](ectropion.md) 或你的 [眼睑向内转动（内翻）](eyelid-problems.md) 
-<!-- FIXME: 潜在的翻译错误，原文 your [eyelid drooping away from the eye (ectropion)](ectropion.md) or [your eyelid turning inwards (entropion)](eyelid-problems.md) -->
+- 你的 [眼睑从眼睛上下垂（外翻）](ectropion.md) 或你的 [眼睑向内转动（内翻）](eyelid-problems.md)
+  <!-- FIXME: 潜在的翻译错误，原文 your [eyelid drooping away from the eye (ectropion)](ectropion.md) or [your eyelid turning inwards (entropion)](eyelid-problems.md) -->
 - [干眼症](dry-eyes.md) – 这可能导致你的眼睛产生过多的泪水。
 
 宝宝因为泪腺小，所以经常流眼泪。这通常到 1 岁的时候就会好转。
-
-
 
 ## 你可以向药剂师询问：
 
@@ -29,6 +31,7 @@
 - 你是否需要看眼科医生或全科医生
 
 <!-- FIXME: 潜在的区域性内容 -->
+
 [寻找药剂师](https://beta.nhs.uk/find-a-pharmacy/)
 
 > ### **如果出现以下情况，请与医生联络：**
@@ -55,9 +58,9 @@
 - 如果有任何东西在你眼中，例如一粒沙，可以将其移除
 - 如果你的眼睑有问题或泪管堵塞，可能需要做一场小手术
 
-***页面上一次复查: 6 April 2018  
-下一次复查:  6 April 2021  
-原文链接: <https://www.nhs.uk/conditions/watering-eyes/>  
-原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)  
-翻译日期: 19 February 2021  
-翻译人员: KevinZonda***
+**_页面上一次复查: 6 April 2018
+下一次复查: 6 April 2021
+原文链接: <https://www.nhs.uk/conditions/watering-eyes/>
+原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+翻译日期: 19 February 2021
+翻译人员: KevinZonda_**

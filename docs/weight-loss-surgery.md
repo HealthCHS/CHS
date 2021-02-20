@@ -1,28 +1,26 @@
+---
+title: 减肥手术 - 总览
+---
+
 <!-- weight-loss-surgery -->
 
 # **总览**
 
-## *减肥手术*
-
-
-- **总览**
-- [适用性](weight-loss-surgery-who-can-have-it.md)
-- [类型](weight-loss-surgery-types.md)
-- [术后](weight-loss-surgery-afterwards.md)
-- [风险](weight-loss-surgery-risks.md)
+## _减肥手术_
 
 **减肥手术，也叫代谢手术，有时被用来治疗非常肥胖的人。**
 
-它可以使体重显著下降，并有助于改善许多与肥胖相关的病症，如 [2型糖尿病](type-2-diabetes.md) 或 [高血压](high-blood-pressure-hypertension.md)。
+它可以使体重显著下降，并有助于改善许多与肥胖相关的病症，如 [2 型糖尿病](type-2-diabetes.md) 或 [高血压](high-blood-pressure-hypertension.md)。
 
 但这是一项重大的手术，在大多数情况下，只应在考虑通过 [健康饮食](https://www.nhs.uk/live-well/eat-well/) 和 [运动](https://www.nhs.uk/live-well/exercise/) 来 [减肥](https://www.nhs.uk/live-well/healthy-weight/start-the-nhs-weight-loss-plan/) 后，才应被考虑。
 
 <!-- FIXME: 潜在的区域性内容 -->
+
 ## NHS 减肥手术
 
 在以下情况下，NHS 可提供减肥手术：
 
-- 您的 [身高体重指数 (BMI)](https://www.nhs.uk/common-health-questions/lifestyle/what-is-the-body-mass-index-bmi/) 为40或更高，或 BMI 在 35 与 40 之间，并且有与肥胖相关，在减轻体重可能会有所改善的疾病（如 2 型糖尿病或高血压）。
+- 您的 [身高体重指数 (BMI)](https://www.nhs.uk/common-health-questions/lifestyle/what-is-the-body-mass-index-bmi/) 为 40 或更高，或 BMI 在 35 与 40 之间，并且有与肥胖相关，在减轻体重可能会有所改善的疾病（如 2 型糖尿病或高血压）。
 - 你已经尝试了所有其他的减肥方法，如节食和运动，但很难减肥或保持体重
 - 您同意在进行术后长期跟踪，例如改变健康的生活方式和定期检查
 
@@ -30,9 +28,7 @@
 
 您也可以私人支付手术费用，尽管这可能很昂贵。
 
-阅读更多关于 [NHS与私人减肥手术](weight-loss-surgery-who-can-have-it.md) 的内容。
-
-
+阅读更多关于 [NHS 与私人减肥手术](weight-loss-surgery-who-can-have-it.md) 的内容。
 
 ## 减肥手术的种类
 
@@ -66,8 +62,6 @@
 
 阅读更多关于 [减肥手术后的生活](weight-loss-surgery-afterwards.md) 的内容。
 
-
-
 ## 减肥手术的风险
 
 减肥手术包含一小部分并发症的风险。
@@ -84,9 +78,9 @@
 
 阅读更多关于 [减肥手术的风险](weight-loss-surgery-risks.md) 的内容。
 
-***页面上一次复查: 14 April 2020  
-下一次复查: 14 April 2024  
-原文链接: <https://www.nhs.uk/conditions/weight-loss-surgery/>  
-原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)  
-翻译日期: 19 February 2021  
-翻译人员: KevinZonda***
+**_页面上一次复查: 14 April 2020
+下一次复查: 14 April 2024
+原文链接: <https://www.nhs.uk/conditions/weight-loss-surgery/>
+原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+翻译日期: 19 February 2021
+翻译人员: KevinZonda_**

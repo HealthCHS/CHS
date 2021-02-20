@@ -1,3 +1,7 @@
+---
+title: 脱发
+---
+
 <!-- Hair loss -->
 
 # 脱发
@@ -21,16 +25,16 @@
 - 缺铁
 
 <!-- FIXME: SUB LINK -->
+
 [查阅更多癌症与脱发的信息](chemotherapy-cancer-and-hair-loss.md)
 
 > ### **如果出现以下情况，请与医生联络：**
+>
 > - 你突然脱发
 > - 你出现秃顶
 > - 你的头发掉了一地
 > - 你的头出现发痒和灼烧感
 > - 你担心你的脱发问题
-
-
 
 ## 在你的诊断中可能发生什么？
 
@@ -38,7 +42,7 @@
 
 你可以告诉他们你的脱发是否会影响你的健康，并询问有哪些治疗方法。
 
-> 重要事项  
+> 重要事项
 > 在考虑去商业发廊之前，请先去咨询全科医生以清楚了解自己的脱发原因。
 
 ## 脱发的治疗方法
@@ -51,6 +55,7 @@
 由医疗状况引起的脱发通常在康复后就会停止或头发重新生长。
 
 <!-- FIXME: 潜在的区域性内容 -->
+
 如果你的脱发给你带来困扰，你可以尝试一些方法。但大多数治疗方法都不在 NHS 服务范围内，所以你必须为它们付费。
 
 请注意，没有一种治疗方法是 100% 有效的。
@@ -71,6 +76,7 @@
 ### 假发
 
 <!-- FIXME: 潜在的区域性内容 -->
+
 NHS 提供一些假发，除非你有资格获得经济帮助，否则你可能需要付费。
 
 人造假发：
@@ -88,22 +94,24 @@ NHS 提供一些假发，除非你有资格获得经济帮助，否则你可能�
 - 比人造假发贵
 
 <!-- FIXME: 潜在的区域性内容 -->
+
 [了解更多关于 NHS 的假发和费用](https://www.nhs.uk/using-the-nhs/help-with-health-costs/wigs-and-fabric-supports-on-the-nhs/)
 
 ### 其他脱发治疗
 
-| 治疗方法 | 描述 |
-| --- | --- |
-| 注射类固醇 | 注射到秃顶部位 |
-| 类固醇霜 | 在脱发的地方涂抹药膏 |
-| 免疫疗法	| 用于脱发的化学品 |
-| 光照疗法 | 用紫外线照射脱发部位 |
-| 纹身 | 纹身以看起来像短发和眉毛 |
-| 移植头发 | 移植后脑勺的头发到到稀疏的地方 |
-| 头皮缩减术 | 将有头发的头皮部分拉长并缝合 |
-| 人工植发 | 手术植入人工毛发 |
+| 治疗方法   | 描述                           |
+| ---------- | ------------------------------ |
+| 注射类固醇 | 注射到秃顶部位                 |
+| 类固醇霜   | 在脱发的地方涂抹药膏           |
+| 免疫疗法   | 用于脱发的化学品               |
+| 光照疗法   | 用紫外线照射脱发部位           |
+| 纹身       | 纹身以看起来像短发和眉毛       |
+| 移植头发   | 移植后脑勺的头发到到稀疏的地方 |
+| 头皮缩减术 | 将有头发的头皮部分拉长并缝合   |
+| 人工植发   | 手术植入人工毛发               |
 
 <!-- FIXME: 潜在的区域性内容 -->
+
 其中一些治疗方法可能在 NHS 无法提供。
 
 ### 情绪帮助
@@ -115,6 +123,7 @@ NHS 提供一些假发，除非你有资格获得经济帮助，否则你可能�
 你也可以加入一个支持小组，或在网上论坛上与其他有相同情况的人交谈，从中受益。
 
 <!-- FIXME: 潜在的区域性内容 -->
+
 [在英国脱发症网站上查找你附近的支持小组](https://www.alopecia.org.uk/Pages/Category/find-a-support-group?Take=10)
 
 ### 更多信息与支持
@@ -122,9 +131,9 @@ NHS 提供一些假发，除非你有资格获得经济帮助，否则你可能�
 [Cancer Research UK: hair loss](https://www.cancerresearchuk.org/about-cancer/coping/physically/changes-appearance/hair-loss)
 [Macmillan: hair loss](https://www.macmillan.org.uk/cancer-information-and-support/impacts-of-cancer/hair-loss)
 
-***页面上一次复查: 4 February 2021  
-下一次复查: 4 February 2024  
-原文链接: <https://www.nhs.uk/conditions/hair-loss/>  
-原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)  
-翻译日期: 09 February 2021  
-翻译人员: KevinZonda***
+**_页面上一次复查: 4 February 2021
+下一次复查: 4 February 2024
+原文链接: <https://www.nhs.uk/conditions/hair-loss/>
+原文协议: [Open Government License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+翻译日期: 09 February 2021
+翻译人员: KevinZonda_**
