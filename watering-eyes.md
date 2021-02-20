@@ -12,7 +12,7 @@
 
 有时眼睛流泪可能是由以下情况引起：
 
-- [过敏](allergies.md) 或感染 [（结膜炎）](conjunctivitis.md)
+- [过敏](allergies.md) 或感染（[结膜炎](conjunctivitis.md)）
 - 泪道堵塞（泪水流入的小管）
 - 你的 [眼睑从眼睛上下垂（外翻）](ectropion.md) 或你的 [眼睑向内转动（内翻）](eyelid-problems.md) 
 <!-- FIXME: 潜在的翻译错误，原文 your [eyelid drooping away from the eye (ectropion)](ectropion.md) or [your eyelid turning inwards (entropion)](eyelid-problems.md) -->
