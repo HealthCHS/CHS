@@ -28,6 +28,7 @@ module.exports = {
           ['/abdominal-aortic-aneurysm-screening-faqs', '常见问题'],
         ],
       },
+      '/cough',
       '/hair-loss',
       '/headaches',
       '/watering-eyes',
